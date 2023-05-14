@@ -26,7 +26,7 @@ AD-KD can be run on single-GPU or multi-GPU, but make sure to use **DistributedD
 
 
 
-## Student Model in the Paper
+## Student Checkpoints
 The distilled student model for each task reported in the paper can be downloaded as follows:
 
 ```python
